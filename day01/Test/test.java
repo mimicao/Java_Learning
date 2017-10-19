@@ -1,9 +1,14 @@
-class Test{
+class test{
 	public static void main(String[] args){
-		byte i = 1;
-		byte j = -1;
+		int h=100;
+		char g='a';
+		String str = "hello";
 		
-		byte k = (byte)(i+j);
-		System.out.println((byte)(0b10000000));
+		System.out.println(str+h+g);
+		System.out.println(h+g+str);
+		System.out.println("test");
+		
+		
 	}
+	
 }
