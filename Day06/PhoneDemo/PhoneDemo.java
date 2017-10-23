@@ -1,6 +1,22 @@
 /*
 该Java文件编译后会生成Phone.class和PhoneDemo.class.
 */
+class PhoneDemo{
+	public static void main(String[] args){
+		Phone phone = new Phone();
+		
+		phone.brand = "魅族";
+		phone.price = 1900;
+		phone.color = "黑色";
+		
+		System.out.println(phone.brand+phone.price+phone.color);
+		
+		phone.call("美女");
+		phone.sendMessage();
+		phone.playName();
+	}
+}
+
 class Phone{
 	String brand;
 	int price;
@@ -20,21 +36,5 @@ class Phone{
 	
 	public void playName(){
 		System.out.println("玩游戏");
-	}
-}
-
-class PhoneDemo{
-	public static void main(String[] args){
-		Phone phone = new Phone();
-		
-		phone.brand = "魅族";
-		phone.price = 1900;
-		phone.color = "黑色";
-		
-		System.out.println(phone.brand+phone.price+phone.color);
-		
-		phone.call("美女");
-		phone.sendMessage();
-		phone.playName();
 	}
 }
