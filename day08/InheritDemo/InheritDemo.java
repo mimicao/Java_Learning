@@ -25,14 +25,17 @@ class Student extends Person {
 	}
 	
 	public void show() {
-		System.out.println(name);
+		System.out.println("Name is "+name+"\nAge is "+age);
 	}
 }
 
 class InheritDemo {
-	Student s = new Student();
-	
-	s.setAge(10);
-	s.setName("Caomei");
-	s.show();
+	public static void main(String[] args) {
+		Student s = new Student();
+		
+		s.setAge(10);
+		s.setName("Caomei");
+		s.show();		
+		s.eat();
+	}
 }
