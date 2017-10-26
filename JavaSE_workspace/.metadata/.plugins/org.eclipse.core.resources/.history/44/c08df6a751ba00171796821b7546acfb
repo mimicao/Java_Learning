@@ -1,0 +1,7 @@
+package cn.laoliu_03;
+
+import sun.org.mozilla.javascript.internal.ast.Jump;
+
+public class Pig extends Jump {
+
+}
