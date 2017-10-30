@@ -1,0 +1,9 @@
+package cn.laoliu_02;
+
+import com.laoliu_02.Animal;
+
+public class AnimalDemo {
+	public static void main(String[] args) {
+		Animal a = new Animal();
+	}
+}

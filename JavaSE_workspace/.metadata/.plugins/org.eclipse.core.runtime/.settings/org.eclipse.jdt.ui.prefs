@@ -1,4 +1,5 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="cn.laoliu_01.Student"><rhs name\="cn.laoliu_01.Student"/></lhs></history>
+command=D\:\\Program Files\\Java\\jdk1.7.0_79\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="cn.laoliu_01.Student"><rhs name\="cn.laoliu_01.Student"/></lhs><lhs name\="com.laoliu_02.Animal"><rhs name\="com.laoliu_02.Cat"/><rhs name\="com.laoliu_02.Dog"/></lhs><lhs name\="com.laoliu_01.Jump"><rhs name\="com.laoliu_02.Dog"/></lhs><lhs name\="com.laoliu_02.Dog"><rhs name\="com.laoliu_02.Dog"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs></history>
 content_assist_number_of_computers=13
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0

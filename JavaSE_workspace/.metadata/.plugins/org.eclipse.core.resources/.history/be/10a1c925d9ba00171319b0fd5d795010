@@ -1,0 +1,14 @@
+package com.random;
+
+import java.util.Scanner;
+
+public class Random {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+				
+		System.out.print("ÇëÊäÈëÊı×Ö1-100: ");
+		int i = sc.nextInt();
+		
+		
+	}
+}

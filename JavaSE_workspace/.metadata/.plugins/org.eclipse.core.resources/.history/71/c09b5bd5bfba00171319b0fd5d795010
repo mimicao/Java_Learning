@@ -1,0 +1,5 @@
+package com.laoliu_02;
+
+public abstract class Animal {
+
+}

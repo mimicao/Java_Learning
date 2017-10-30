@@ -1,0 +1,14 @@
+package com.laoliu_02;
+
+/**
+ * 这是动物抽象类
+ * 
+ * @author caobrook
+ * @version V1.0
+ */
+public abstract class Animal {
+	
+	public abstract void eat();
+	
+	public abstract void sleep();
+}

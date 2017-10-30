@@ -1,0 +1,17 @@
+package com.laoliu_02;
+
+public class Cat extends Animal {
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("Ã¨³ÔÓã");
+	}
+
+	@Override
+	public void sleep() {
+		// TODO Auto-generated method stub
+		System.out.println("Ã¨ÎÑ×ÅË¯");
+	}
+
+}
