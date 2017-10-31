@@ -4,15 +4,22 @@
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="cn.laoliu_03.Animal"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="cn.laoliu_01.StudentDemo"/>
-<fullyQualifiedTypeName name="cn.laoliu_01.Student"/>
 <fullyQualifiedTypeName name="cn.laoliu_02.AnimalDemo"/>
 <fullyQualifiedTypeName name="com.laoliu_02.Cat"/>
 <fullyQualifiedTypeName name="com.laoliu_02.Animal"/>
 <fullyQualifiedTypeName name="com.laoliu_02.Dog"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="cn.laoliu_01.Student"/>
+<fullyQualifiedTypeName name="cn.laoliu_02.Student"/>
+<fullyQualifiedTypeName name="cn.laoliu_03.Demo"/>
+<fullyQualifiedTypeName name="cn.laoliu_03.Student"/>
+<fullyQualifiedTypeName name="cn.laoliu_04.Student"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="cn.laoliu_02.StringTest"/>
 </qualifiedTypeNameHistroy>

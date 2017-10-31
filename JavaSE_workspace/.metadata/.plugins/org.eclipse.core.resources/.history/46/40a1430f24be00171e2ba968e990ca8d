@@ -1,0 +1,12 @@
+package cn.laoliu_02;
+/*
+ * 模拟登录，给上次机会，并提示还有几次机会
+ */
+public class StringTest {
+	public static void main(String[] args) {
+		String name = "mimicao";
+		String key = "random";
+		
+		
+	}
+}

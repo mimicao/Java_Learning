@@ -1,0 +1,25 @@
+package cn.laoliu_02;
+
+import java.util.Scanner;
+
+/*
+ * 模拟登录，给上次机会，并提示还有几次机会
+ */
+public class StringTest {
+	public static void main(String[] args) {
+		String name = "mimicao";
+		String key = "random";
+		Scanner sc = new Scanner(System.in);
+
+		for (int i = 3; i>0; i++) {
+			System.out.print("请输入用户名：");
+			String in_name = sc.nextLine();
+			if (in_name.equals(name)) {
+
+			} else {
+				System.out.println("用户名输入错误！");
+			}
+			System.out.println("剩余输入次数：" + i);
+		}
+	}
+}
