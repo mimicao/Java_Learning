@@ -1,0 +1,17 @@
+package cn.laoliu_05;
+
+public class StringTest2 {
+	public static void main(String[] args) {
+		
+	}
+	
+	/*
+	 * 寻找字串出现的次数
+	 */
+	
+	public static int getStringTime(String s) {
+		int count = 0;
+		
+		
+	}
+}

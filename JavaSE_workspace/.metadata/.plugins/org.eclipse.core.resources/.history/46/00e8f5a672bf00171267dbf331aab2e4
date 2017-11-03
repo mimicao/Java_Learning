@@ -1,0 +1,11 @@
+package cn.laoliu_02;
+
+public class GuessNumberGame {
+	private GuessNumberGame() {
+		
+	}
+	
+	public static void start() {
+		
+	}
+}

@@ -1,0 +1,17 @@
+package cn.laoliu_07;
+
+public class StringBufferTest4 {
+	public static void main(String[] args) {
+		String s = "asdfghjkl";
+		String s1 = "lkjhgfdsa";
+		
+		System.out.println(strIsEqual(s, s1));
+	}
+	
+	public static boolean strIsEqual(String s1, String s2){
+		String temp = "";
+		temp = new StringBuffer(s2).reverse().toString();
+		
+		return s1.equals(temp);
+	}
+}

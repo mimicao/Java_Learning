@@ -1,0 +1,8 @@
+package cn.laoliu_03;
+
+//public StringBuffer deleteCharAt(int index)
+//public StringBuffer delete(int start,int end)
+
+public class StringBufferDemo {
+
+}

@@ -1,0 +1,7 @@
+package cn.laoliu_07;
+
+public class StringBufferTest2 {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,8 @@
+package cn.laoliu_06;
+
+//public String substring(int start)
+//public String substring(int start,int end)
+
+public class StringBufferDemo {
+
+}

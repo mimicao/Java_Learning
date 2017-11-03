@@ -1,0 +1,15 @@
+package cn.laoliu_07;
+
+public class StringBufferTest2 {
+	public static void main(String[] args) {
+		int[] arr = { 88, 77, 55, 44, 33, 22, 11 };
+		
+		//方式1：用String做拼接
+		String s = ;
+	}
+	
+	public static String arrayToString(int[] arr){
+		
+	}
+	
+}

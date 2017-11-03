@@ -1,0 +1,10 @@
+package cn.laoliu_05;
+
+/*
+ * Arrays: 操作数组（比如排序和搜索）的各种方法
+ */
+public class ArraysDemo {
+	public static void main(String[] args) {
+
+	}
+}

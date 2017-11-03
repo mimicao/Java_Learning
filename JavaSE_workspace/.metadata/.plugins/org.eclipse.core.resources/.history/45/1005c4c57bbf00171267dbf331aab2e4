@@ -1,0 +1,11 @@
+package cn.laoliu_04;
+
+public class StringTest {
+	public static void main(String[] args) {
+		String s1 = "javaSE";
+		String upCase = s1.toUpperCase();
+		String lowCase = s1.toLowerCase();
+		
+		System.out.println(upCase.substring(0, 1)+lowCase.substring(1));
+	}
+}

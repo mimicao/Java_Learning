@@ -1,0 +1,10 @@
+/*
+ * String和StringBuffer的相互转换
+ * 
+ */
+
+package cn.laoliu_07;
+
+public class StringBufferTest {
+
+}

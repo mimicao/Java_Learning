@@ -1,0 +1,9 @@
+package cn.laoliu_04;
+
+//public StringBuffer replace(int start,int end,String str)
+
+public class StringBufferDemo {
+	public static void main(String[] args) {
+		
+	}
+}

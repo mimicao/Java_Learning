@@ -1,0 +1,10 @@
+package cn.laoliu_03;
+
+public class StringTest2 {
+	public static void main(String[] args) {
+		String s1 = "Hello123World";
+		int bigCount = 0;
+		int smallCount = 0;
+		int numCount = 0;
+	}
+}

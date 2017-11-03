@@ -1,0 +1,12 @@
+package cn.laoliu_01;
+
+/*
+ * 线程安全
+ * 安全-- 同步-- 数据是安全的
+ * 不安全-- 不同步-- 效率高一些
+ * 安全和效率永远困扰我们的。
+ */
+
+public class StringBufferDemo {
+
+}

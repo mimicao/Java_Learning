@@ -1,0 +1,18 @@
+package cn.laoliu_03;
+
+/*
+ * String类的获取功能
+ * int length()
+ * char charAt(int index)
+ * int indexOf(int ch)
+ * int indexOf(String str)
+ * int indexOf(int ch,int fromIndex)
+ * int indexOf(String str,int fromIndex)
+ * String substring(int start)
+ * String substring(int start,int end)
+ */
+public class StringDemo {
+	public static void main(String[] args) {
+		
+	}
+}

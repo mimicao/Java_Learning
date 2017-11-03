@@ -1,0 +1,26 @@
+/*
+ * String和StringBuffer的相互转换
+ * 
+ */
+
+package cn.laoliu_07;
+
+public class StringBufferTest {
+	public static void main(String[] args) {
+		String s = "hello";
+
+		// StringBuffer sb = "hello";
+
+		// 通过构造方法
+		StringBuffer sb = new StringBuffer(s);
+
+		// 通过append
+		StringBuffer sb1 = new StringBuffer();
+		sb1.append(s);
+		
+		StringBuffer buffer = new StringBuffer("java");
+		//通过构造方法
+		String s1 = new String(buffer);
+		
+	}
+}

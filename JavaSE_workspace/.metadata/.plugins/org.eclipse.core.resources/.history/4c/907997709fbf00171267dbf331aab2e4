@@ -1,0 +1,2 @@
+public StringBuffer deleteCharAt(int index)
+public StringBuffer delete(int start,int end)
