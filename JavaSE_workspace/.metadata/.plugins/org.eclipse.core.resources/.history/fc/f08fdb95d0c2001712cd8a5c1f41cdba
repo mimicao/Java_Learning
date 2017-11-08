@@ -1,0 +1,9 @@
+package cn.laoliu_05;
+
+/*
+ * 获取下列字串中由三个字母组成的单词
+ * da jia ting wo shuo,jin tian yao xia yu,bu shang wan zi xi,gao xing bu?
+ */
+public class RegexTest {
+
+}

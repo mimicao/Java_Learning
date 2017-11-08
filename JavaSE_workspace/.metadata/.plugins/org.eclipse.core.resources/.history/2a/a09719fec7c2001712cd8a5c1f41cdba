@@ -1,0 +1,10 @@
+package cn.laoliu_04;
+
+/*
+ * public String replaceAll(String regex,String replacement)
+ */
+public class RegexReplaceDemo {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,8 @@
+package cn.laoliu_02;
+
+/*
+ * 实现获取任意范围类的随机数
+ */
+public class MathDemo {
+
+}

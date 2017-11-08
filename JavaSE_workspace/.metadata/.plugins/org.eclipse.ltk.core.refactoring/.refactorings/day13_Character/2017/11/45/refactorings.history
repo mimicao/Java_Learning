@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;cn.laoliu_03&apos; to &apos;day14_Regex/src&apos;&#x0D;&#x0A;- Original project: &apos;day13_Character&apos;&#x0D;&#x0A;- Destination element: &apos;day14_Regex/src&apos;&#x0D;&#x0A;- Original element: &apos;day13_Character/src/cn.laoliu_03&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=day14_Regex/src" element1="/src&lt;cn.laoliu_03" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1509953697104" version="1.0"/>
+</session>

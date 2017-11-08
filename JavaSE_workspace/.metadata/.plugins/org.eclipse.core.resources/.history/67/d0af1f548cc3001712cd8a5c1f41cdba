@@ -1,0 +1,17 @@
+package cn.laoliu_02;
+
+import java.math.BigDecimal;
+
+/*
+ * public BigInteger add(BigInteger val)
+ * public BigInteger subtract(BigInteger val)
+ * public BigInteger multiply(BigInteger val)
+ * public BigInteger divide(BigInteger val)
+ * public BigInteger[] divideAndRemainder(BigInteger val)
+ */
+public class BigIntegerDemo {
+	public static void main(String[] args) {
+		BigInteger n1=new BigInteger("2147483647");
+		BigInteger n1=new BigInteger("2147483647");
+	}
+}

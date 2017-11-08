@@ -1,0 +1,29 @@
+package cn.laoliu_05;
+
+public class IntegerDemo {
+	public static void main(String[] args) {
+		Integer i1 = new Integer(127);
+		Integer i2 = new Integer(127);
+		System.out.println("i1==i2:" + (i1 == i2));
+		System.out.println("i1 equal i2:"+i1.equals(i2));
+		System.out.println("----------------");
+		
+		Integer i3 = new Integer(128);
+		Integer i4 = new Integer(128);
+		System.out.println("i1==i2:" + (i1 == i2));
+		System.out.println("i1 equal i2:"+i1.equals(i2));
+		System.out.println("----------------");
+		
+		Integer i5 = new Integer(127);
+		Integer i6 = new Integer(127);
+		System.out.println("i1==i2:" + (i1 == i2));
+		System.out.println("i1 equal i2:"+i1.equals(i2));
+		System.out.println("----------------");
+		
+		Integer i7 = new Integer(127);
+		Integer i8 = new Integer(127);
+		System.out.println("i1==i2:" + (i1 == i2));
+		System.out.println("i1 equal i2:"+i1.equals(i2));
+		System.out.println("----------------");
+	}
+}

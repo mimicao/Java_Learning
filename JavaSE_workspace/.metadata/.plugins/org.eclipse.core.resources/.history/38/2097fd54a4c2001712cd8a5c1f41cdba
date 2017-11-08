@@ -1,0 +1,36 @@
+package cn.laoliu_02;
+
+import java.io.CharConversionException;
+import java.util.Scanner;
+
+/*
+ * 验证QQ号码
+ * 	必须是5-15位数字
+ * 	不能以0开头
+ */
+public class CharacterTest {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("请输入QQ号码：");
+		
+		String s = sc.nextLine();
+		char[] chs = s.toCharArray();
+		
+		if(chs.length>15||chs.length<5){
+			System.out.println("输入的长度有误");
+		}else{
+			int i = 0;
+			while(i<chs.length){
+				if(Character.isDigit(chs[i])&&chs[0]!='0'){
+					i++;
+				}else{
+					System.out.println("输入的号码有误");
+					break;
+				}
+				
+				
+			}
+		}
+	}
+}
