@@ -1,0 +1,13 @@
+package cn.laoliu_02;
+
+import java.util.Date;
+
+/*
+ * public long getTime()
+ * public void setTime(long time)
+ */
+public class DateDemo {
+	public static void main(String[] args) {
+		Date d = new Date();
+	}
+}

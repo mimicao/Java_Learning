@@ -1,6 +1,0 @@
-package cn.laoliu_01;
-
-public class StudentTest {
-	Student s = new Student();
-	System.out.println("");
-}
