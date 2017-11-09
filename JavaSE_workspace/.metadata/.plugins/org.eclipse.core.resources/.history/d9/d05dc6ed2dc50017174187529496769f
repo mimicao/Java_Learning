@@ -1,0 +1,11 @@
+package cn.laoliu_05;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class IteratorTest {
+	public static void main(String[] args) {
+		Collection c = new ArrayList();
+		
+	}
+}

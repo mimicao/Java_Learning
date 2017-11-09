@@ -1,0 +1,21 @@
+package cn.laoliu_05;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+
+/*
+ * Iterator iterator()： 迭代器，集合的专用便利方式
+ * 		Object next():获取元素
+ */
+public class IteratorDemo {
+	public static void main(String[] args) {
+		Collection c = new ArrayList();
+		
+		c.add("hello");
+		c.add("world");
+		c.add("Java");
+		
+		Iterator it = c.iterator();
+	}
+}

@@ -1,0 +1,7 @@
+package cn.laoliu_01;
+/*
+ * 请把5个学生的信息存储到数组中，并遍历数组，获取每个学生的信息
+ */
+public class ObjectArrayDemo {
+
+}

@@ -1,0 +1,15 @@
+package cn.laoliu_03;
+
+import java.util.Calendar;
+import java.util.Scanner;
+
+public class CalendarTest {
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.println("ÇëÊäÈëÄê·İ£º");
+		int myYear = sc.nextInt();
+		Calendar c = Calendar.getInstance();
+		
+		c.set(myYear, 1, 1);
+	}
+}

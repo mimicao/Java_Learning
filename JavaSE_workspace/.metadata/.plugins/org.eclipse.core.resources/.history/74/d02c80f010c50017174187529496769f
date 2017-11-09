@@ -1,0 +1,11 @@
+package cn.laoliu_02;
+
+import java.util.Calendar;
+
+public class CalendarDemo {
+	public static void main(String[] args) {
+		Calendar c = Calendar.getInstance();
+		
+		int year = c.get(Calendar.YEAR);
+	}
+}

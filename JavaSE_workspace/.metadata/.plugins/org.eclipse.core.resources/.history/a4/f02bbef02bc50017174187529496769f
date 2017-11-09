@@ -1,0 +1,10 @@
+package cn.laoliu_04;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class StudentDemo {
+	public static void main(String[] args) {
+		Collection c = new ArrayList();
+	}
+}

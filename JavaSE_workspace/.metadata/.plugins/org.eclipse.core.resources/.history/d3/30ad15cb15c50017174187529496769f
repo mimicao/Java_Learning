@@ -1,0 +1,6 @@
+package cn.laoliu_01;
+
+public class Student {
+	private name;
+	private age;
+}
