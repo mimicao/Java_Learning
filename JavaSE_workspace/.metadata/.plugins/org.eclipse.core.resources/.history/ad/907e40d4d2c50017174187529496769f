@@ -1,0 +1,24 @@
+package cn.laoliu_04;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class ListIteratorDemo {
+	public static void main(String[] args) {
+		List list = new ArrayList();
+
+		list.add("hello");
+		list.add("world");
+		list.add("world");
+
+		Iterator it = list.iterator();
+		while (it.hasNext()) {
+			String s = (String) it.next();
+			if ("world".equals(s)) {
+				// ConcurrentModificationException
+				list.add("javaee");
+			}
+		}
+	}
+}

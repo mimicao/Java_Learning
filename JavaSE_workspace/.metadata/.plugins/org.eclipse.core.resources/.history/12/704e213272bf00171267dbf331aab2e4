@@ -1,7 +1,0 @@
-package cn.laoliu_02;
-
-public class StringTest2 {
-	public static void main(String[] args) {
-		
-	}
-}
