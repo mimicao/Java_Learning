@@ -1,0 +1,13 @@
+INSTUPModifyKmlPosn
+C:\Users\caobrook\Desktop\Modify_kml_posn\ModifyKmlPosn\src\ModifyKmlPosn.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0&&3|9|2|0&&3|10|2|0
+readPosnbox=3
+lon=6
+readPosnpkg=4
+readPosnGroup=5
+lon_offset=10
+ModifyKmlPosn=2
+posn_pkg=8
+lat=7
+lat_offset=9
+readKmlFile=1

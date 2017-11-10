@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<name>bbs-7</name>
+<Region>
+  <LatLonAltBox>
+    <north>43.86450783809124200</north>
+    <south>43.27857509606911900</south>
+    <east>128.02495914407353000</east>
+    <west>127.35689705128848000</west>
+  </LatLonAltBox>
+</Region>
+<GroundOverlay>
+  <name>kml_image_bbs-7_A4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_A4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.86450783809124200</north>
+    <south>43.81124122518014000</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_A5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_A5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.86450783809124200</north>
+    <south>43.81124122518014000</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_A6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_A6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.86450783809124200</north>
+    <south>43.81124122518014000</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_A7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_A7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.86450783809124200</north>
+    <south>43.81124122518014000</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B8</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B8.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>127.95073002265298000</east>
+    <west>127.87650090123242000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_B9</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_B9.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.81124122518014000</north>
+    <south>43.75797461226903800</south>
+    <east>128.02495914407353000</east>
+    <west>127.95073002265298000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C8</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C8.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>127.95073002265298000</east>
+    <west>127.87650090123242000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_C9</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_C9.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.75797461226903800</north>
+    <south>43.70470799935793600</south>
+    <east>128.02495914407353000</east>
+    <west>127.95073002265298000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D8</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D8.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>127.95073002265298000</east>
+    <west>127.87650090123242000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_D9</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_D9.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.70470799935793600</north>
+    <south>43.65144138644683400</south>
+    <east>128.02495914407353000</east>
+    <west>127.95073002265298000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_E8</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_E8.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.65144138644683400</north>
+    <south>43.59817477353573200</south>
+    <east>127.95073002265298000</east>
+    <west>127.87650090123242000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_F7</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_F7.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.59817477353573200</north>
+    <south>43.54490816062463000</south>
+    <east>127.87650090123242000</east>
+    <west>127.80227177981185000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_G6</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_G6.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.54490816062463000</north>
+    <south>43.49164154771352700</south>
+    <east>127.80227177981185000</east>
+    <west>127.72804265839129000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_H1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_H1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.49164154771352700</north>
+    <south>43.43837493480242500</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_H2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_H2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.49164154771352700</north>
+    <south>43.43837493480242500</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_H3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_H3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.49164154771352700</north>
+    <south>43.43837493480242500</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_H4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_H4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.49164154771352700</north>
+    <south>43.43837493480242500</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_H5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_H5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.49164154771352700</north>
+    <south>43.43837493480242500</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_I1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_I1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.43837493480242500</north>
+    <south>43.38510832189132300</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_I2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_I2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.43837493480242500</north>
+    <south>43.38510832189132300</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_I3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_I3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.43837493480242500</north>
+    <south>43.38510832189132300</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_I4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_I4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.43837493480242500</north>
+    <south>43.38510832189132300</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_I5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_I5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.43837493480242500</north>
+    <south>43.38510832189132300</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_J1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_J1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.38510832189132300</north>
+    <south>43.33184170898022100</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_J2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_J2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.38510832189132300</north>
+    <south>43.33184170898022100</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_J3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_J3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.38510832189132300</north>
+    <south>43.33184170898022100</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_J4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_J4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.38510832189132300</north>
+    <south>43.33184170898022100</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_J5</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_J5.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.38510832189132300</north>
+    <south>43.33184170898022100</south>
+    <east>127.72804265839129000</east>
+    <west>127.65381353697073000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_K1</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_K1.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.33184170898022100</north>
+    <south>43.27857509606911900</south>
+    <east>127.43112617270904000</east>
+    <west>127.35689705128848000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_K2</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_K2.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.33184170898022100</north>
+    <south>43.27857509606911900</south>
+    <east>127.50535529412960000</east>
+    <west>127.43112617270904000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_K3</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_K3.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.33184170898022100</north>
+    <south>43.27857509606911900</south>
+    <east>127.57958441555017000</east>
+    <west>127.50535529412960000</west>
+  </LatLonBox>
+</GroundOverlay>
+<GroundOverlay>
+  <name>kml_image_bbs-7_K4</name>
+  <drawOrder>0</drawOrder>
+  <Icon>
+    <href>kml_image_bbs-7_K4.jpg</href>
+  </Icon>
+  <LatLonBox>
+    <north>43.33184170898022100</north>
+    <south>43.27857509606911900</south>
+    <east>127.65381353697073000</east>
+    <west>127.57958441555017000</west>
+  </LatLonBox>
+</GroundOverlay>
+</Document>
+</kml>

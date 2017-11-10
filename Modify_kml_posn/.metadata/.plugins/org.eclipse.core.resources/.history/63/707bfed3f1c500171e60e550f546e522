@@ -1,0 +1,74 @@
+#!usr/bin/python
+#-*- coding: utf-8 -*-
+"""
+由于客户回报有kmz的问题，kmz文件坐标可能不在成都，需要对用户的kmz文件中的kml文件进行坐标偏移。
+该代码的功能为将用户的kmz文件转换到指定坐标位置生成新的kmz文件，以方便开发测试重现问题。
+
+入口变量：    1. kmz文件(暂时支持修改kml文件)
+           2.需要转换地点坐标
+        
+输出文件：kmz(暂时支持输出kmz文件)
+"""
+
+import os
+from locale import atof
+import re
+
+def readKmlFile(src, dest):
+    rf = open(src, "r")
+    wf = open(dest, "w")
+    assert rf!=None or wf!=None, "Make sure the file exist"
+    while True:
+        ff = rf.readline()
+        if ff=="":
+            break;
+    
+def readPosnPkg(line):
+    pattern = re.compile(r'<LatLonAltBox>(.*?)</LatLonAltBox>', re.S)
+    match = pattern.match(line)
+    return readPosnGroup1(match.group(1))
+
+def readPosnGroup1(line):
+    string = []
+    re.findall(r'<.*?>(.*?)<.*?>', string)
+    
+def readPosnGroup(line):
+    posn_group = []
+    
+    pattern_N = re.compile(r'.*<north>(.*?)</north>', re.S)
+    match_N = pattern_N.match(line)
+    temp = match_N.group(1)
+    posn_group.append(atof(temp))
+    
+    pattern_S = re.compile(r'.*<south>(.*?)</south>', re.S)
+    match_S = pattern_S.match(line)
+    posn_group.append(atof(match_S.group(1)))
+    
+    pattern_E = re.compile(r'.*<east>(.*?)</east>', re.S)
+    match_E = pattern_E.match(line)
+    posn_group.append(atof(match_E.group(1)))
+    
+    pattern_W = re.compile(r'.*<west>(.*?)</west>', re.S)
+    match_W = pattern_W.match(line)
+    posn_group.append(atof(match_W.group(1)))
+    
+    return posn_group
+      
+if __name__ == '__main__':
+#    print("请输入指定位置的坐标值");
+#    s_lon = raw_input("经度(W/E):");
+#    s_lat = raw_input("纬度(N/S):");
+    
+#    lon = atof(s_lon);
+#    lat = atof(s_lat);
+    
+    posn_pkg = readPosnPkg("""<LatLonAltBox>
+    <north>43.86450783809124200</north>
+    <south>43.27857509606911900</south>
+    <east>128.02495914407353000</east>
+    <west>127.35689705128848000</west>
+  </LatLonAltBox>""")
+    
+    for item in posn_pkg:
+        print item     
+    
