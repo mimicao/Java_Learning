@@ -1,0 +1,15 @@
+package cn.laoliu_05;
+
+import java.util.LinkedList;
+
+public class MyStack {
+	private LinkedList link;
+
+	public void add(Object obj) {
+
+	}
+
+	public Object get(void) {
+
+	}
+}

@@ -1,0 +1,12 @@
+package cn.laoliu_01;
+/*
+ * List的子类特点
+ * 		ArrayList:
+ * 
+ * 		Vector:
+ * 
+ * 		LinkList
+ */
+public class ArrayListDemo {
+
+}

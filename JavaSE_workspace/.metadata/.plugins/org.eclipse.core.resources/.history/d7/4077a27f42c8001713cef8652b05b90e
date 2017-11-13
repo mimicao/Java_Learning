@@ -1,0 +1,21 @@
+package cn.laoliu_02;
+
+import java.util.Vector;
+
+/*
+ * Vector的特有功能
+ * 1.添加功能
+ * 
+ * 2.获取功能
+ */
+public class VectorDemo {
+	public static void main(String[] args) {
+		Vector v = new Vector();
+		
+		v.addElement("hello");
+		v.addElement("world");
+		v.addElement("java");
+		
+		
+	}
+}

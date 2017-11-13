@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ListIteratorDemo {
 	public static void main(String[] args) {
-		List list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 
 		list.add("hello");
 		list.add("world");

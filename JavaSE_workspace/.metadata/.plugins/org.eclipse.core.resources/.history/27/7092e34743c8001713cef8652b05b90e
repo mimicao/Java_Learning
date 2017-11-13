@@ -1,0 +1,12 @@
+package cn.laoliu_03;
+
+/*
+ * public void addFirst(E e)¼°addLast(E e)
+public E getFirst()¼°getLast()
+public E removeFirst()¼°public E removeLast()
+ */
+public class LinkedListDemo {
+	public static void main(String[] args) {
+		
+	}
+}

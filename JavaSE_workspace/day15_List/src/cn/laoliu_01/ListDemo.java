@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ListDemo {
 	public static void main(String[] args) {
-		List list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 		
 		list.add("hello");
 		list.add("world");
@@ -15,7 +15,7 @@ public class ListDemo {
 		list.add("java");
 		list.add(2, "mac");
 		
-		Iterator it = list.iterator();
+		Iterator<String> it = list.iterator();
 		
 		while(it.hasNext()){
 			System.out.println(it.next());

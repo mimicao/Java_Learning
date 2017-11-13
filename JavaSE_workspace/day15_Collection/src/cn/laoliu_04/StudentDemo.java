@@ -7,7 +7,7 @@ import cn.laoliu_04.Student;
 
 public class StudentDemo {
 	public static void main(String[] args) {
-		Collection c = new ArrayList();
+		Collection<Student> c = new ArrayList<Student>();
 		
 		Student s1 = new Student("mimicao", 80);
 		Student s2 = new Student("memecao", 70);

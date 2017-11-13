@@ -1,0 +1,19 @@
+package cn.laoliu_05;
+
+import java.util.LinkedList;
+
+public class MyStack {
+	private LinkedList link;
+
+	public MyStack(LinkedList link) {
+		link = new LinkedList();
+	}
+
+	public void add(Object obj) {
+		link.addFirst(obj);
+	}
+
+	public Object get() {
+		return link.removeFirst()();
+	}
+}

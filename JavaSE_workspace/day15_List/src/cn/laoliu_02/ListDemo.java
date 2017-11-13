@@ -8,12 +8,11 @@ package cn.laoliu_02;
  * ListIterator listIterator()
  */
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 public class ListDemo {
 	public static void main(String[] args) {
-		List list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 
 		list.add("hello");
 		list.add("world");

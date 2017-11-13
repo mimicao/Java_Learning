@@ -1,0 +1,7 @@
+package cn.laoliu_03;
+
+public class LinkedListDemo {
+	public static void main(String[] args) {
+		
+	}
+}

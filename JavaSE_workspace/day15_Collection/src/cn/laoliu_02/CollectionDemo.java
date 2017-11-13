@@ -11,13 +11,13 @@ import java.util.Collection;
 
 public class CollectionDemo {
 	public static void main(String[] args) {
-		Collection c1 = new ArrayList();
+		Collection<String> c1 = new ArrayList<String>();
 		c1.add("abc1");
 		c1.add("abc2");
 		c1.add("abc3");
 		c1.add("abc4");
 
-		Collection c2 = new ArrayList();
+		Collection<String> c2 = new ArrayList<String>();
 		c2.add("abc4");
 		c2.add("abc5");
 		c2.add("abc6");

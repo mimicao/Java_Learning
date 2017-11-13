@@ -1,0 +1,22 @@
+package cn.laoliu_04;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class ArrayListDemo {
+	public static void main(String[] args) {
+		ArrayList array = new ArrayList();
+		
+		array.add("hello");
+		array.add("world");
+		array.add("java");
+		array.add("javaee");
+		array.add("hello");
+		array.add("java");
+		
+		ArrayList array1 = new ArrayList();
+		
+		Iterator it = array.iterator();
+		while()
+	}
+}

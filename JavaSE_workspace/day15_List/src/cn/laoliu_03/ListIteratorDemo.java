@@ -7,13 +7,13 @@ import java.util.ListIterator;
 
 public class ListIteratorDemo {
 	public static void main(String[] args) {
-		List list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 
 		list.add("hello");
 		list.add("world");
 		list.add("java");
 
-		ListIterator lit = list.listIterator();
+		ListIterator<String> lit = list.listIterator();
 		while (lit.hasNext()) {
 			String s = (String) lit.next();
 			System.out.println(s);
@@ -27,7 +27,7 @@ public class ListIteratorDemo {
 
 		System.out.println("----------");
 
-		Iterator it = list.iterator();
+		Iterator<String> it = list.iterator();
 		while (it.hasNext()) {
 			String s = (String) it.next();
 			System.out.println(s);

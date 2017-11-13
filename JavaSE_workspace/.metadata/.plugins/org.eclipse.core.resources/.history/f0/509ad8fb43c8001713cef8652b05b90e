@@ -1,0 +1,26 @@
+package cn.laoliu_03;
+
+import java.util.LinkedList;
+
+/*
+ * LinkedList的特有功能:
+ * 		public void addFirst(E e)及addLast(E e)
+ * 		public E getFirst()及getLast()
+ * 		public E removeFirst()及public E removeLast()
+ */
+public class LinkedListDemo {
+	public static void main(String[] args) {
+		LinkedList list = new LinkedList();
+		
+		list.add("hello");
+		list.add("world");
+		list.add("java");
+
+		list.addFirst("javaee");
+		list.addLast("bb");
+		
+		System.out.println("list:"+list);
+		System.out.println("LinkLast:"+list.getLast());
+		System.out.println("LinkFirst:"+list.getFirst());
+	}
+}

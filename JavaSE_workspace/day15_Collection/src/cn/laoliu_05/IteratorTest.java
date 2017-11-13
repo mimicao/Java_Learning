@@ -6,7 +6,7 @@ import java.util.Iterator;
 
 public class IteratorTest {
 	public static void main(String[] args) {
-		Collection c = new ArrayList();
+		Collection<Student> c = new ArrayList<Student>();
 
 		Student s1 = new Student("mimicao", 80);
 		Student s2 = new Student("memecao", 70);
@@ -20,7 +20,7 @@ public class IteratorTest {
 		c.add(s4);
 		c.add(s5);
 
-		Iterator it = c.iterator();
+		Iterator<Student> it = c.iterator();
 
 		while (it.hasNext()) {
 			// System.out.println(it.next());

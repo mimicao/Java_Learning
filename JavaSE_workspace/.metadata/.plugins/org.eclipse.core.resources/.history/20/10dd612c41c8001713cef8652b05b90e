@@ -1,0 +1,20 @@
+package cn.laoliu_01;
+
+import java.util.ArrayList;
+
+/*
+ * array存储自定义对象
+ */
+public class ArrayListDemo2 {
+	public static void main(String[] args) {
+		ArrayList array = new ArrayList();
+		
+		Student s1 = new Student("mimicao", 25);
+		Student s2 = new Student("mamicao", 27);
+		Student s3 = new Student("memicao", 28);
+		Student s4 = new Student("mcmicao", 29);
+		Student s5 = new Student("mhmicao", 30);
+		
+		array.add(s1);
+	}
+}

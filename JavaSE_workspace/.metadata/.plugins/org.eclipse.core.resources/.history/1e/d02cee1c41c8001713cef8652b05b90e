@@ -1,0 +1,14 @@
+package cn.laoliu_01;
+
+import java.util.ArrayList;
+
+/*
+ * array存储自定义对象
+ */
+public class ArrayListDemo2 {
+	public static void main(String[] args) {
+		ArrayList array = new ArrayList();
+		
+		
+	}
+}
