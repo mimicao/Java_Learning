@@ -1,0 +1,13 @@
+package cn.laoliu_05;
+
+public class GenericDemo {
+	public static void main(String[] args) {
+
+	}
+}
+
+class Animal {
+}
+
+class Dog extends Animal {
+}

@@ -1,0 +1,19 @@
+package cn.laoliu_01;
+
+import java.util.ArrayList;
+
+/*
+ * ¼¯ºÏµÄÇ¶Ì×
+ */
+public class ArrayListDemo {
+	public static void main(String[] args) {
+		ArrayList<ArrayList<Student>> arr = new ArrayList<ArrayList<Student>>();
+		
+		ArrayList<Student> arr1 = new ArrayList<Student>();
+		Student s1 = new Student("mimicao", 20);
+		Student s2 = new Student("mimicao", 20);
+		Student s3 = new Student("mimicao", 20);
+		Student s4 = new Student("mimicao", 20);
+		Student s5 = new Student("mimicao", 20);
+	}
+}

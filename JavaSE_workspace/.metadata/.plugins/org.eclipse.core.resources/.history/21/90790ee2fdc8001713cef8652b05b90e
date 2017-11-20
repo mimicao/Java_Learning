@@ -1,0 +1,22 @@
+package cn.laoliu_05;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class GenericDemo {
+	public static void main(String[] args) {
+		Collection<Object> c1 = new ArrayList<Object>();
+		// Collection<Object> c2 = new ArrayList<Animal>();
+		// Collection<Object> c3 = new ArrayList<Dog>();
+		// Collection<Object> c4 = new ArrayList<Cat>();
+	}
+}
+
+class Animal {
+}
+
+class Dog extends Animal {
+}
+
+class Cat extends Animal {
+}

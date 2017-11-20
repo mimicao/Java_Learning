@@ -1,0 +1,10 @@
+package cn.laoliu_03;
+/*
+ * public static <T> List<T> asList(T... a)
+ */
+
+public class ArraysDemo {
+	public static void main(String[] args) {
+		String[] strarr = {"hello", "world", "java"};
+	}
+}

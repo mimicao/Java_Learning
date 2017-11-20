@@ -1,0 +1,17 @@
+package cn.laoliu_02;
+
+import static java.lang.Math.abs;
+import static java.lang.Math.pow;
+import static java.lang.Math.max;
+
+public class StaticImport {
+	public static void main(String[] args) {
+		System.out.println(Math.abs(-10));
+		System.out.println(Math.pow(2, 3));
+		System.out.println(Math.max(10, 20));
+
+		System.out.println(Math.abs(-10));
+		System.out.println(Math.pow(2, 3));
+		System.out.println(Math.max(10, 20));
+	}
+}

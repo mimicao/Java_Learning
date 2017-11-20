@@ -1,0 +1,7 @@
+package cn.laoliu_02;
+
+public class StaticImport {
+	public static void main(String[] args) {
+		System.out.println(Math.abs(-10));
+	}
+}

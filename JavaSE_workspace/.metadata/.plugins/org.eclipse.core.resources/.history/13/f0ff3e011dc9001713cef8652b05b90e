@@ -1,0 +1,15 @@
+package cn.laoliu_01;
+
+import java.util.ArrayList;
+
+/*
+ * ¼¯ºÏµÄÇ¶Ì×
+ */
+public class ArrayListDemo {
+	public static void main(String[] args) {
+		ArrayList<ArrayList<Student>> arr = new ArrayList<ArrayList<Student>>();
+		
+		ArrayList<Student> arr1 = new ArrayList<Student>();
+		Student s1 = new Sutdent("mimicao", 20);
+	}
+}

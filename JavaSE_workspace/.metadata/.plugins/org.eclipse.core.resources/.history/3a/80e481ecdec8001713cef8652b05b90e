@@ -1,0 +1,15 @@
+package cn.laoliu_03;
+
+public class ObjectTool {
+	public void show(String s){
+		System.out.println(s);
+	}
+	
+	public void show(Integer i){
+		System.out.println(i);
+	}
+	
+	public void show(String s){
+		System.out.println(s);
+	}
+}

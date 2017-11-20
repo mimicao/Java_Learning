@@ -1,8 +1,0 @@
-package cn.laoliu_01;
-
-public class BigIntegerDemo {
-	public static void main(String[] args) {
-		Integer i1 = new Integer(100);
-		System.out.println(Integer.MAX_VALUE);
-	}
-}

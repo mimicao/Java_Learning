@@ -1,0 +1,7 @@
+package cn.laoliu_04;
+
+import cn.laoliu;
+
+public class InterImpl extends laoliu {
+
+}

@@ -1,0 +1,15 @@
+package cn.laoliu_02;
+
+public class ObjectToolDemo {
+	public static void main(String[] args) {
+		ObjectTool<String> ot = new ObjectTool<String>();
+		
+		ot.setObj(new String("mimicao"));
+		String s = (String)ot.getObj();
+		System.out.println("name:"+s);
+		
+		ot.setObj(new Integer(10));
+		Integer i = (Integer)ot.getObj();
+		System.out.println("Age:"+i);
+	}
+}

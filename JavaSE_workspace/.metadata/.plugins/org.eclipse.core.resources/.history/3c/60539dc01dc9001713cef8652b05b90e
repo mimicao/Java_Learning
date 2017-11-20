@@ -1,0 +1,51 @@
+package cn.laoliu_01;
+
+import java.util.ArrayList;
+
+/*
+ * ¼¯ºÏµÄÇ¶Ì×
+ */
+public class ArrayListDemo {
+	public static void main(String[] args) {
+		ArrayList<ArrayList<Student>> arr = new ArrayList<ArrayList<Student>>();
+		
+		ArrayList<Student> arr1 = new ArrayList<Student>();
+		Student s1 = new Student("mimicao", 20);
+		Student s2 = new Student("memicao", 21);
+		Student s3 = new Student("mamicao", 22);
+		Student s4 = new Student("momicao", 23);
+		Student s5 = new Student("mpmicao", 24);
+		
+		arr1.add(s1);
+		arr1.add(s2);
+		arr1.add(s3);
+		arr1.add(s4);
+		arr1.add(s5);
+		
+		arr.add(arr1);
+		
+		ArrayList<Student> arr2 = new ArrayList<Student>();
+		Student s6 = new Student("mimacao", 25);
+		Student s7 = new Student("memecao", 26);
+		
+		arr2.add(s6);
+		arr2.add(s7);
+		
+		arr.add(arr2);
+		
+		ArrayList<Student> arr3 = new ArrayList<Student>();
+		Student s8 = new Student("mpmpcao", 27);
+		Student s9 = new Student("momocao", 28);
+		
+		arr3.add(s8);
+		arr3.add(s9);
+		arr1.add(s9);
+		arr.add(arr3);
+		
+		for(ArrayList<Student> temp: arr){
+			for(Student s: temp){
+				System.out.println(s);
+			}
+		}
+	}
+}

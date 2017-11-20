@@ -1,0 +1,5 @@
+package cn.laoliu_04;
+
+public class InterImpl implements Inter<T> {
+
+}

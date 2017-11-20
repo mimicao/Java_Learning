@@ -1,0 +1,16 @@
+package cn.laoliu_03;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ArrayListDemo {
+	public static void main(String[] args) {
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		Scanner sc = new Scanner(System.in);
+		int i = null;
+		while(0==(int i = sc.nextInt())){
+			
+		}
+		
+	}
+}

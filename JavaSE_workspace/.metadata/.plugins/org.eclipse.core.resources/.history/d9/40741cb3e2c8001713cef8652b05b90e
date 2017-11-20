@@ -1,0 +1,9 @@
+package cn.laoliu_04;
+
+public class InterDemo {
+	public static void main(String[] args) {
+		Inter<String> s = new InterImpl<String>();
+		s.show("hello");
+		
+	}
+}

@@ -1,9 +1,0 @@
-package cn.laoliu_01;
-
-public class CharacterDemo {
-	public static void main(String[] args) {
-//		Character ch = new Character((char) 97);
-		Character ch = new Character('a');
-		System.out.println("ch:" + ch);
-	}
-}

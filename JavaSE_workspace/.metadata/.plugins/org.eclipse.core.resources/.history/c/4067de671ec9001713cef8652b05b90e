@@ -1,0 +1,13 @@
+package cn.laoliu_02;
+
+import java.util.ArrayList;
+
+public class RandomDemo {
+	public static void main(String[] args) {
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		
+		while(list.size() < 10){
+			num = 1+(Math.random()*100)
+		}
+	}
+}

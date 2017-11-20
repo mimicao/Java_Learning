@@ -1,7 +1,0 @@
-package cn.laoliu_01;
-
-public class BigDecimal {
-	public static void main(String[] args) {
-		
-	}
-}

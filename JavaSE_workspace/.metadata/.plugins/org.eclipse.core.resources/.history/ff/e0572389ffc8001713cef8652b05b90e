@@ -1,0 +1,12 @@
+package cn.laoliu_01;
+
+/*
+ * for(元素数据类型 变量 : 数组或者Collection集合) {
+ * 	使用变量即可，该变量就是元素
+ *     }
+ */
+public class ForDemo {
+	public static void main(String[] args) {
+
+	}
+}

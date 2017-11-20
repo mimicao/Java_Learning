@@ -1,0 +1,9 @@
+package cn.laoliu_02;
+
+public class ObjectToolDemo {
+	public static void main(String[] args) {
+		ObjectTool ot = new ObjectTool();
+		
+		
+	}
+}

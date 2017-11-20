@@ -1,0 +1,25 @@
+package cn.laoliu_03;
+
+import java.util.Arrays;
+import java.util.List;
+
+/*
+ * public static <T> List<T> asList(T... a)
+ */
+
+public class ArraysDemo {
+	public static void main(String[] args) {
+		// String[] strarr = {"hello", "world", "java"};
+		//
+		// List<String> list = Arrays.asList(strarr);
+		List<String> list = Arrays.asList("hello", "world", "java");
+		// UnsupportedOperationException
+		// list.add("hello");
+		// UnsupportedOperationException
+		// list.remove(1);
+		list.set(1, "mission");
+		for (String s : list) {
+			System.out.println(s);
+		}
+	}
+}
