@@ -1,0 +1,30 @@
+package cn.laoliu_06;
+
+import java.util.TreeSet;
+
+/*
+ * 请按照姓名的长度排序。
+ */
+public class TreeSetDemo {
+	public static void main(String[] args) {
+		TreeSet<Student> ts = new TreeSet<Student>();
+
+		Student s1 = new Student("mimicao", 22);
+		Student s2 = new Student("mamicao", 23);
+		Student s3 = new Student("memicao", 24);
+		Student s4 = new Student("momicao", 25);
+		Student s5 = new Student("mimicao", 26);
+		Student s6 = new Student("mimicao", 22);
+
+		ts.add(s1);
+		ts.add(s2);
+		ts.add(s3);
+		ts.add(s4);
+		ts.add(s5);
+		ts.add(s6);
+
+		for (Student s : ts) {
+			System.out.println(s);
+		}
+	}
+}

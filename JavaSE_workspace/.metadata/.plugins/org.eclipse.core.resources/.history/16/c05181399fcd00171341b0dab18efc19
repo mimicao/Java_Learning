@@ -1,0 +1,11 @@
+package cn.laoliu_03;
+
+import java.util.HashSet;
+
+public class DogDemo {
+	public static void main(String[] args) {
+		HashSet<Dog> hs = new HashSet<Dog>();
+		
+		Dog d1 = new Dog("Íú²Æ", 2, "½ðÉ«", 'ÄÐ');
+	}
+}

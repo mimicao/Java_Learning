@@ -1,0 +1,15 @@
+package cn.laoliu_05;
+
+import java.util.TreeSet;
+
+/*
+ * TreeSet的排序方法
+ * 1. 自然排序
+ * 2. 比较器排序
+ */
+public class TreeSetDemo {
+	public static void main(String[] args) {
+		TreeSet<Integer> ts = new TreeSet<Inreger>();
+		
+	}
+}

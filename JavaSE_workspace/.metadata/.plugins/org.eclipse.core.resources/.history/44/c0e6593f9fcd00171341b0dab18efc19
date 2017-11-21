@@ -1,0 +1,16 @@
+package cn.laoliu_03;
+
+import java.util.HashSet;
+
+public class DogDemo {
+	public static void main(String[] args) {
+		HashSet<Dog> hs = new HashSet<Dog>();
+		
+		Dog d1 = new Dog("旺财", 2, "金色", '男');
+		Dog d2 = new Dog("旺财", 2, "金色", '男');
+		Dog d3 = new Dog("旺财", 2, "金色", '男');
+		Dog d4 = new Dog("旺财", 2, "金色", '男');
+		Dog d5 = new Dog("旺财", 2, "金色", '男');
+		Dog d6 = new Dog("旺财", 2, "金色", '男');
+	}
+}

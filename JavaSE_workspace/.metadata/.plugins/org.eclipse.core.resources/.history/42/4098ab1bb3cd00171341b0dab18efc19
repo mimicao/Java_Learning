@@ -1,0 +1,17 @@
+package cn.laoliu_08;
+
+import java.util.Comparator;
+import java.util.TreeSet;
+
+public class TreeSetDemo {
+	public static void main(String[] args) {
+		TreeSet<Student> ts = new TreeSet<Student>(new Comparator<Student>() {
+			@Override
+			public int compare(Student o1, Student o2) {
+				int num = s1.getNum() - s2.getNum();
+				return num;// TODO Auto-generated method stub
+				return 0;
+			}
+		});
+	}
+}

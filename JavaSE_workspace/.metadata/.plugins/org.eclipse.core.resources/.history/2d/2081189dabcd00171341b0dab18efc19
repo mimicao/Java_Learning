@@ -1,0 +1,16 @@
+package cn.laoliu_05;
+
+import java.util.TreeSet;
+
+public class TreeSetDemo2 {
+	public static void main(String[] args) {
+		TreeSet<Student> ts = new TreeSet<Student>();
+		
+		Student s1 = new Student("mimicao", 22);
+		Student s2 = new Student("mamicao", 23);
+		Student s3 = new Student("memicao", 24);
+		Student s4 = new Student("momicao", 25);
+		Student s5 = new Student("mimicao", 26);
+		Student s6 = new Student("mimicao", 22);
+	}
+}

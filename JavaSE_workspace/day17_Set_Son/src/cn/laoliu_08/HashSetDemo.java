@@ -1,0 +1,20 @@
+package cn.laoliu_08;
+
+import java.util.HashSet;
+import java.util.Random;
+
+public class HashSetDemo {
+	public static void main(String[] args) {
+		Random r = new Random();
+		HashSet<Integer> hs = new HashSet<Integer>();
+		
+		while(hs.size()<10){
+			int num = r.nextInt(20)+1;
+			hs.add(num);
+		}
+		
+		for(Integer i:hs){
+			System.out.println(i);
+		}
+	}
+}
